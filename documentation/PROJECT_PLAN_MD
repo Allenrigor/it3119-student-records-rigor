@@ -1,0 +1,31 @@
+# Student Records System — Project Plan
+
+## 📋 Project Overview
+A simple web-based student records management system built with **Vite**, **Vanilla JavaScript**, and **Supabase**. Features include operator authentication, student record CRUD operations, course management, and enrollment reporting.
+
+## 👤 Project Information
+- **Project Name:** Student Records System
+- **Course / Subject:** IT3119 — Web Application Development
+- **Student Name:** [Your Full Name]
+- **Student ID:** [Your Student Number]
+- **Date:** November 22, 2026
+
+## 🎯 Objectives
+1. Build a fully functional frontend using vanilla JavaScript and Vite
+2. Integrate Supabase for backend database and authentication
+3. Implement secure user access with role-based permissions
+4. Perform CRUD operations on student records
+5. Generate simple reports using SQL functions
+
+## 🛠️ Technologies Used
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Page structure |
+| CSS3 | Styling and layout |
+| Vanilla JavaScript | Application logic |
+| Vite | Build tool and local development server |
+| Supabase | Backend, PostgreSQL database, and authentication |
+| GitHub | Source code hosting |
+| Vercel | Deployment and hosting |
+
+## 📁 Project Structure
